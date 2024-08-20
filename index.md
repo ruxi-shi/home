@@ -16,16 +16,16 @@ I'm interested in dynamical system, ergodic theory and harmonic analysis. I am a
 
 1. Mean topological dimension of induced amenable group actions.
 (with  Guohua zhang)
-[arxiv]
+[arxiv](https://arxiv.org/abs/2308.03270)
 
 2. Multiplicity of topological systems.
 (with  David Burguet)
-[arxiv]
+[arxiv](https://arxiv.org/abs/2307.08906)
 
 3. Application of waist inequality to entropy and mean dimension.
 (with Masaki Tsukamoto)
 Trans. Amer. Math. Soc., to appear.
-[arxiv]
+[arxiv](https://arxiv.org/abs/2211.10158)
 
 1. Strongly isomorphic symbolic extensions for expansive topological flows.
 (with  Yonatan Gutman)
