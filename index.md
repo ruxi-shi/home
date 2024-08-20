@@ -14,28 +14,28 @@ I'm interested in dynamical system, ergodic theory and harmonic analysis. I am a
 
 ## Publications
 
-Mean topological dimension of induced amenable group actions.
+1. Mean topological dimension of induced amenable group actions.
 (with  Guohua zhang)
 [arxiv]
 
-Multiplicity of topological systems.
+2. Multiplicity of topological systems.
 (with  David Burguet)
 [arxiv]
 
-Application of waist inequality to entropy and mean dimension.
+3. Application of waist inequality to entropy and mean dimension.
 (with Masaki Tsukamoto)
 Trans. Amer. Math. Soc., to appear.
 [arxiv]
 
-Strongly isomorphic symbolic extensions for expansive topological flows.
+1. Strongly isomorphic symbolic extensions for expansive topological flows.
 (with  Yonatan Gutman)
 [arxiv]
 
-Topological mean dimension of induced systems.
+1. Topological mean dimension of induced systems.
 (with  David Burguet)
 [arxiv]
 
-Mean dimension of natural extension of algebraic systems.
+1. Mean dimension of natural extension of algebraic systems.
 (with Bingbing Liang)
 [arxiv]
 
@@ -90,32 +90,32 @@ On dimensions of frame spectral measures and their frame spectra,
 Ann. Acad. Sci. Fenn. Math., 46 (2021), no. 1, 483–493.
 [journal][arxiv]
 
-Construction of some Chowla sequences,
+7. Construction of some Chowla sequences,
 Monatsh. Math., 2021, 194(1): 193–224.
 [journal][arxiv]
 
-Equi-distribution on planes and spectral set conjecture on $\mathbb{Z}_{p^2}$ X $\mathbb{Z}_{p}$,
+6. Equi-distribution on planes and spectral set conjecture on $\mathbb{Z}_{p^2}\times \mathbb{Z}_{p}$,
 J. Lond. Math. Soc, 2020, 102(2): 1030-1046.
 [journal][arxiv]
 
-Fuglede's conjecture holds on cyclic groups $\mathbb{Z}_{pqr}$,
+5. Fuglede's conjecture holds on cyclic groups $\mathbb{Z}_{pqr}$,
 Discrete Anal., 2019:14, 14 pp.
 [journal] [arxiv]
 
-Fuglede's conjecture holds in $\mathbb{Q}_p$,
+4. Fuglede's conjecture holds in $\mathbb{Q}_p$,
 Math. Ann. , 2019, 375(1-2): 315-341. 
 (with Ai-Hua Fan, Shilei Fan and Lingmin Liao)
 [journal] [arxiv] 
 
-Spectrality of a class of Cantor-Moran measure,
+3. Spectrality of a class of Cantor-Moran measure,
 J. Funct. Anal., 2019, 276(12): 3767-3794.
 [journal]
 
-Equivalent definitions of oscillating sequences of higher orders,
+2. Equivalent definitions of oscillating sequences of higher orders,
 Collect. Math. , 2018, 69(3), 395-405.
 [journal] [arxiv]
 
-Compact open spectral sets in $\mathbb{Q}_p$,
+1. Compact open spectral sets in $\mathbb{Q}_p$,
 J. Funct. Anal., 2016, 271(12): 3628-3661. 
 (with Ai-Hua Fan and Shilei Fan)
 [journal] [arxiv]
