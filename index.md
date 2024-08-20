@@ -83,7 +83,7 @@ Discrete Contin. Dyn. Syst., 2022, 42(3): 1105-1126.
 1. A counter-example for polynomial version of Sarnak's conjecture.
 (with Zhengxing Lian)
 Adv. Math.,  384 (2021), Paper No. 107765, 14 pp.
-[[journal](https://www.sciencedirect.com/science/article/abs/pii/S0001870821002048)][[arxiv] (https://arxiv.org/abs/2002.12421)]
+[[journal](https://www.sciencedirect.com/science/article/abs/pii/S0001870821002048)][[arxiv](https://arxiv.org/abs/2002.12421)]
 
 1. On dimensions of frame spectral measures and their frame spectra,
 Ann. Acad. Sci. Fenn. Math., 46 (2021), no. 1, 483–493.
@@ -99,12 +99,12 @@ J. Lond. Math. Soc, 2020, 102(2): 1030-1046.
 
 5. Fuglede's conjecture holds on cyclic groups $\mathbb{Z}_{pqr}$,
 Discrete Anal., 2019:14, 14 pp.
-[[journal](https://discreteanalysisjournal.com/article/10570-fuglede-s-conjecture-holds-on-cyclic-groups-mathbb-z-_-pqr)][ [arxiv](https://arxiv.org/abs/1805.11261)]
+[[journal](https://discreteanalysisjournal.com/article/10570-fuglede-s-conjecture-holds-on-cyclic-groups-mathbb-z-_-pqr)][[arxiv](https://arxiv.org/abs/1805.11261)]
 
 4. Fuglede's conjecture holds in $\mathbb{Q}_p$,
 Math. Ann. , 2019, 375(1-2): 315-341. 
 (with Ai-Hua Fan, Shilei Fan and Lingmin Liao)
-[[journal](https://link.springer.com/article/10.1007/s00208-019-01867-8)] [[arxiv] (https://arxiv.org/abs/1512.08904)]
+[[journal](https://link.springer.com/article/10.1007/s00208-019-01867-8)] [[arxiv](https://arxiv.org/abs/1512.08904)]
 
 3. Spectrality of a class of Cantor-Moran measure,
 J. Funct. Anal., 2019, 276(12): 3767-3794.
@@ -112,7 +112,7 @@ J. Funct. Anal., 2019, 276(12): 3767-3794.
 
 2. Equivalent definitions of oscillating sequences of higher orders,
 Collect. Math. , 2018, 69(3), 395-405.
-[[journal](https://link.springer.com/article/10.1007/s13348-017-0211-9)][ [arxiv](https://arxiv.org/abs/1705.07827)]
+[[journal](https://link.springer.com/article/10.1007/s13348-017-0211-9)][[arxiv](https://arxiv.org/abs/1705.07827)]
 
 1. Compact open spectral sets in $\mathbb{Q}_p$,
 J. Funct. Anal., 2016, 271(12): 3628-3661. 
