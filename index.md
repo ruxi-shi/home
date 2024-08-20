@@ -10,7 +10,7 @@ I am currently a young investigator (tenure-track faculty) at [Shanghai Center f
 
 ## Research Interest
 
-I'm interested in dynamical system, ergodic theory and harmonic analysis. I am also concerned with spectral set conjecture on locally compact abelian groups.
+I am interested in dynamical system, ergodic theory and harmonic analysis. I am also concerned with spectral set conjecture on locally compact abelian groups.
 
 ## Publications
 
