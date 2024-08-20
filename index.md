@@ -39,54 +39,53 @@ Trans. Amer. Math. Soc., to appear.
 (with Bingbing Liang)
 [arxiv]
 
-On $p$-adic spectral measures.
+1. On $p$-adic spectral measures.
 Adv. Math.,  to appear.
 [arxiv]
 
-Spectrum of weighted Birkhoff average.
+1. Spectrum of weighted Birkhoff average.
 (with Balázs Bárány and Michał Rams)
 Studia Math. , 269 (2023), no. 1, 65–82.
 [journal][arxiv]
 
-Finite mean dimension and marker property.
-
+1. Finite mean dimension and marker property.
 Trans. Amer. Math. Soc., to appear.
 [arxiv]
 
-Embedding theorems for discrete dynamical systems and topological flows.
+1. Embedding theorems for discrete dynamical systems and topological flows.
 Studia Math. , 270 (2023), 57-72.
 [journal][arxiv]
 
-Mean dimension of continuous cellular automata.
+1. Mean dimension of continuous cellular automata.
 (with  David Burguet)
 Isr. J. Math., to  apear.
 [hal][arxiv]
 
-On variational principles for metric mean dimension.
+1. On variational principles for metric mean dimension.
 IEEE Trans. Inform. Theory, 68 (2022), no. 7, 4282–4288.
 [journal][arxiv]
 
-Divergent coindex sequence for dynamical systems.
+1. Divergent coindex sequence for dynamical systems.
 (with Masaki Tsukamoto)
 J. Topol. Anal., to appear.
 [journal][arxiv]
 
-On the multifractal spectrum of weighted Birkhoff averages.
+1. On the multifractal spectrum of weighted Birkhoff averages.
 (with Balázs Bárány and Michał Rams)
 Discrete Contin. Dyn. Syst.,  42 (2022), no. 5, 2461–2497.
 [journal][arxiv]
 
-Zero-dimensional and symbolic extensions for topological flows.
+1. Zero-dimensional and symbolic extensions for topological flows.
 (with  David Burguet)
 Discrete Contin. Dyn. Syst., 2022, 42(3): 1105-1126.
 [journal][hal][arxiv]
 
-A counter-example for polynomial version of Sarnak's conjecture.
+1. A counter-example for polynomial version of Sarnak's conjecture.
 (with Zhengxing Lian)
 Adv. Math.,  384 (2021), Paper No. 107765, 14 pp.
 [journal][arxiv] 
 
-On dimensions of frame spectral measures and their frame spectra,
+1. On dimensions of frame spectral measures and their frame spectra,
 Ann. Acad. Sci. Fenn. Math., 46 (2021), no. 1, 483–493.
 [journal][arxiv]
 
