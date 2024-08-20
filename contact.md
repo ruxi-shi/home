@@ -11,10 +11,16 @@ is_contact: true
 
 ## Mailing Address
 
-> Shanghai Center for Mathematical Sciences,  
+> Shanghai Center for Mathematical Sciences,
+> 
 > Jiangwan Campus, 
 > Fudan University,
-> 2005 Songhu Road, Shanghai, China
+> 
+> 2005 Songhu Road,
+>
+> Shanghai,
+> 
+> China
 
 ---
 
