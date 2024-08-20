@@ -94,7 +94,7 @@ Construction of some Chowla sequences,
 Monatsh. Math., 2021, 194(1): 193–224.
 [journal][arxiv]
 
-Equi-distribution on planes and spectral set conjecture on $\mathbb{Z}_{p^2}\times \mathbb{Z}_{p}$,
+Equi-distribution on planes and spectral set conjecture on $\mathbb{Z}_{p^2}$ X $\mathbb{Z}_{p}$,
 J. Lond. Math. Soc, 2020, 102(2): 1030-1046.
 [journal][arxiv]
 
