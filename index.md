@@ -54,21 +54,21 @@ Trans. Amer. Math. Soc., to appear.
 
 1. Embedding theorems for discrete dynamical systems and topological flows.
 Studia Math. , 270 (2023), 57-72.
-[[journal]()][arxiv]()]
+[[journal](https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/online/114893/embedding-theorems-for-discrete-dynamical-systems-and-topological-flows)][[arxiv](https://arxiv.org/abs/2011.05121)]
 
 1. Mean dimension of continuous cellular automata.
 (with  David Burguet)
 Isr. J. Math., to  apear.
-[[hal]()][[arxiv]()]
+[[hal](https://hal.archives-ouvertes.fr/hal-03245893)][[arxiv](https://arxiv.org/abs/2105.09708)]
 
 1. On variational principles for metric mean dimension.
 IEEE Trans. Inform. Theory, 68 (2022), no. 7, 4282–4288.
-[[journal]()][[arxiv]()]
+[[journal](https://ieeexplore.ieee.org/document/9730850)][[arxiv](https://arxiv.org/abs/2101.02610)]
 
 1. Divergent coindex sequence for dynamical systems.
 (with Masaki Tsukamoto)
 J. Topol. Anal., to appear.
-[[journal]()][[arxiv]()]
+[[journal](https://www.worldscientific.com/doi/abs/10.1142/S1793525322500042)][[arxiv](https://arxiv.org/abs/2103.11654)]
 
 1. On the multifractal spectrum of weighted Birkhoff averages.
 (with Balázs Bárány and Michał Rams)
