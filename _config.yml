@@ -16,7 +16,7 @@ sass:
 nav:
  - name: "About"
    link: "/home/"
-- name: "Teaching"
+ - name: "Teaching"
    link: "teaching" 
  - name: "Contact"
    link: "contact"
