@@ -14,25 +14,37 @@ I am interested in dynamical system, ergodic theory and harmonic analysis. I am 
 
 ## Publications
 
-1. Mean topological dimension of induced amenable group actions.
+1. When is the fractal uncertainty principle for discrete Cantor sets most uncertain?
+（with Chun-Kit Lai）
+[[arxiv](https://arxiv.org/abs/2501.00864)]
+
+
+
+3. Lowering mean topological dimension
+[[arxiv](https://arxiv.org/abs/2411.10749)]
+
+4. Mean topological dimension of induced amenable group actions.
 (with  Guohua zhang)
 [[arxiv](https://arxiv.org/abs/2308.03270)]
 
-2. Multiplicity of topological systems.
+5. Multiplicity of topological systems.
 (with  David Burguet)
-[[arxiv](https://arxiv.org/abs/2307.08906)]
+Ergod. Theory Dyn. Syst., to appear.
+[[journal](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/multiplicity-of-topological-systems/7C016F041C0BE4B6574809A47947E6EC)][[arxiv](https://arxiv.org/abs/2307.08906)]
 
-3. Application of waist inequality to entropy and mean dimension.
+6. Application of waist inequality to entropy and mean dimension.
 (with Masaki Tsukamoto)
 Trans. Amer. Math. Soc., to appear.
 [[arxiv](https://arxiv.org/abs/2211.10158)]
 
 1. Strongly isomorphic symbolic extensions for expansive topological flows.
 (with  Yonatan Gutman)
-[[arxiv](https://arxiv.org/abs/2206.12308)]
+Int. Math. Res. Not. IMRN,  Volume 2024, Issue 3, February 2024, Pages 2382–2419.
+[[journal](https://academic.oup.com/imrn/article/2024/3/2382/7226186)][[arxiv](https://arxiv.org/abs/2206.12308)]
 
 1. Topological mean dimension of induced systems.
 (with  David Burguet)
+Trans. Amer. Math. Soc., to appear.
 [[arxiv](https://arxiv.org/abs/2206.10508)]
 
 1. Mean dimension of natural extension of algebraic systems.
