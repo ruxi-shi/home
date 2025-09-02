@@ -2,15 +2,25 @@
 
 ---
 
-## Teaching @Fudan
-
-
-2024-2025 春 
-
-动力系统 MATH130032.01 / 动力系统（G）MATH620045.01\
-时间: 每周四 09:55-12:30\
-地点: HGX506\
-课程调整：3月6日的课调到3月9日6-8节（13：30-16：10），教室不变（HGX506）\
-期末考试: 
+## SCMS Dynamical System Seminar
 
 ---
+
+Wednesday 14:00-15:00\
+Once every two weeks\
+Location: Room at SCMS\
+Organizers: Jialun Li, Ronggang Shi, Ruxi Shi
+
+---
+
+Upcoming:\
+17 September:\
+30 September:\
+15 October:\
+29 October:\
+12 November:\
+26 Nobember:\
+10 December:\
+24 December:
+
+
