@@ -8,16 +8,15 @@ layout: No
 
 ---
 
-Wednesday 14:00-15:00\
-Once every two weeks\
-Location: Room 102 at SCMS\
-Organizers: Jialun Li, Ronggang Shi, Ruxi Shi
+**Time**: Wednesday 14:00-15:00, Once every two weeks\
+**Location**: Room 102 at SCMS\
+**Organizers**: Jialun Li, Ronggang Shi, Ruxi Shi
 
 ---
 
 2025 Fall
 
-Upcoming: 
+**Upcoming:** 
 
 17 September:\
 Speaker:
