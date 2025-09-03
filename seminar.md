@@ -1,4 +1,8 @@
 ---
+layout: No
+---
+
+---
 
 ## SCMS Dynamical System Seminar
 
