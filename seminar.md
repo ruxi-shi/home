@@ -8,7 +8,7 @@ layout: No
 
 ---
 
-**Time**: Wednesday 14:00-15:00, Once every two weeks\
+**Time**: Wednesday 14:00-15:00, once every two weeks\
 **Location**: Room 102 at SCMS\
 **Organizers**: Jialun Li, Ronggang Shi, Ruxi Shi
 
