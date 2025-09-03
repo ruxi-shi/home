@@ -25,16 +25,17 @@ I am interested in dynamical system, ergodic theory and harmonic analysis. I am 
 
 4. Mean topological dimension of induced amenable group actions.
 (with  Guohua zhang)
+J. Differential Equations, 427 (2025), 827--842.
 [[arxiv](https://arxiv.org/abs/2308.03270)]
 
-5. Multiplicity of topological systems.
+6. Multiplicity of topological systems.
 (with  David Burguet)
-Ergod. Theory Dyn. Syst., to appear.
+Ergod. Theory Dyn. Syst., 44 (2024), no. 10, 2832--2858.
 [[journal](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/multiplicity-of-topological-systems/7C016F041C0BE4B6574809A47947E6EC)][[arxiv](https://arxiv.org/abs/2307.08906)]
 
-6. Application of waist inequality to entropy and mean dimension.
+7. Application of waist inequality to entropy and mean dimension.
 (with Masaki Tsukamoto)
-Trans. Amer. Math. Soc., to appear.
+Trans. Amer. Math. Soc., 376 (2023), no. 11, 8173--8192.
 [[arxiv](https://arxiv.org/abs/2211.10158)]
 
 1. Strongly isomorphic symbolic extensions for expansive topological flows.
@@ -44,15 +45,16 @@ Int. Math. Res. Not. IMRN,  Volume 2024, Issue 3, February 2024, Pages 2382–24
 
 1. Topological mean dimension of induced systems.
 (with  David Burguet)
-Trans. Amer. Math. Soc., to appear.
+Trans. Amer. Math. Soc., 378 (2025), no. 5, 3085--3103.
 [[arxiv](https://arxiv.org/abs/2206.10508)]
 
 1. Mean dimension of natural extension of algebraic systems.
 (with Bingbing Liang)
+ Proc. Am. Math. Soc.,152 (2024), no. 3, 1207--1215.
 [[arxiv](https://arxiv.org/abs/2203.01122)]
 
 1. On $p$-adic spectral measures.
-Adv. Math.,  to appear.
+Adv. Math., 433 (2023), Paper No. 109254, 35 pp.
 [[arxiv](https://arxiv.org/abs/2002.07559)]
 
 1. Spectrum of weighted Birkhoff average.
@@ -70,7 +72,7 @@ Studia Math. , 270 (2023), 57-72.
 
 1. Mean dimension of continuous cellular automata.
 (with  David Burguet)
-Isr. J. Math., to  apear.
+Isr. J. Math.,  259 (2024), no. 1, 311--346.
 [[hal](https://hal.archives-ouvertes.fr/hal-03245893)][[arxiv](https://arxiv.org/abs/2105.09708)]
 
 1. On variational principles for metric mean dimension.
@@ -79,7 +81,7 @@ IEEE Trans. Inform. Theory, 68 (2022), no. 7, 4282–4288.
 
 1. Divergent coindex sequence for dynamical systems.
 (with Masaki Tsukamoto)
-J. Topol. Anal., to appear.
+J. Topol. Anal., 16 (2024), no. 6, 905--916.
 [[journal](https://www.worldscientific.com/doi/abs/10.1142/S1793525322500042)][[arxiv](https://arxiv.org/abs/2103.11654)]
 
 1. On the multifractal spectrum of weighted Birkhoff averages.
