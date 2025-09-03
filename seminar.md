@@ -19,8 +19,9 @@ layout: No
 **Upcoming:** 
 
 17 September:\
-Speaker:
-
+Speaker: Chengyang Wu (吴乘洋)\
+Title:\
+Abstract:
 
 30 September:\
 Speaker:
