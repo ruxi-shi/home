@@ -10,7 +10,7 @@ layout: No
 
 **Time**: Wednesday 14:00-15:00, once every two weeks\
 **Location**: Room 102 at SCMS\
-**Organizers**: Jialun Li, Ronggang Shi, Ruxi Shi
+**Organizers**: Dongchen Li, Jialun Li, Ronggang Shi, Ruxi Shi
 
 ---
 
@@ -19,12 +19,12 @@ layout: No
 **Upcoming:** 
 
 17 September\
-Speaker: Chengyang Wu (吴乘洋), Peking University\
+Speaker: **Chengyang Wu** (吴乘洋), Peking University\
 Title:\
 Abstract:
 
 30 September\
-Speaker: Shi Wang (汪湜), Shanghaitech University\
+Speaker: **Shi Wang** (汪湜), Shanghaitech University\
 Title:\
 Abstract:
 
@@ -32,10 +32,10 @@ Abstract:
 Speaker:
 
 29 October\
-Speaker:
+Speaker: **David Burguet**, CNRS & University of Picarde
 
 12 November\
-Speaker: Wooyeon Kim, Korea Institute for Advanced Study\
+Speaker: **Wooyeon Kim**, Korea Institute for Advanced Study\
 Title:\
 Abstract:
 
