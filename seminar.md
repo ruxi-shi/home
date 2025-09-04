@@ -19,12 +19,12 @@ layout: No
 **Upcoming:** 
 
 17 September\
-Speaker: Chengyang Wu (吴乘洋)\
+Speaker: Chengyang Wu (吴乘洋), Peking University\
 Title:\
 Abstract:
 
 30 September\
-Speaker:Shi Wang (汪湜)\
+Speaker: Shi Wang (汪湜), Shanghaitech University\
 Title:\
 Abstract:
 
@@ -35,7 +35,7 @@ Speaker:
 Speaker:
 
 12 November\
-Speaker: Wooyeon Kim\
+Speaker: Wooyeon Kim, Korea Institute for Advanced Study\
 Title:\
 Abstract:
 
