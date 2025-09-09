@@ -5,8 +5,7 @@ layout: default
 ## About Me
 
 
-I am currently a young investigator (tenure-track faculty) at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University. I am co-organizing [SCMS Dynamical System Seminar](https://ruxi-shi.github.io/home/seminar).
-
+I am currently a young investigator (tenure-track faculty) at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University. 
 
 ## Research Interest
 
