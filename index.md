@@ -7,6 +7,10 @@ layout: default
 
 I am currently a young investigator (tenure-track faculty) at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University. 
 
+## Seminars
+
+I am co-organizing the [Fudan Dynamics seminar](https://www.fudandynamics.com).
+
 ## Research Interest
 
 I am interested in dynamical system, ergodic theory and harmonic analysis. I am also concerned with spectral set conjecture on locally compact abelian groups.
