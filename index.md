@@ -66,7 +66,7 @@ Studia Math. , 269 (2023), no. 1, 65–82.
 [[journal](https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/online/114746/spectrum-of-weighted-birkhoff-average)][[arxiv](https://arxiv.org/abs/2109.03898)]
 
 1. Finite mean dimension and marker property.
-Trans. Amer. Math. Soc., to appear.
+Trans. Amer. Math. Soc., 376 (2023), no. 9, 6123–6139.
 [[arxiv](https://arxiv.org/abs/2102.12197)]
 
 1. Embedding theorems for discrete dynamical systems and topological flows.
