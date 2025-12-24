@@ -17,13 +17,17 @@ I am interested in dynamical system, ergodic theory and harmonic analysis. I am 
 
 ## Publications
 
-1. When is the fractal uncertainty principle for discrete Cantor sets most uncertain?
+1. Spectra for finite unions of line segments.
+ (with Mihalis N. Kolountzakis and Sha Wu)
+ [[arxiv](https://arxiv.org/abs/2512.19872)]
+ 
+2. When is the fractal uncertainty principle for discrete Cantor sets most uncertain?
 （with Chun-Kit Lai）
 [[arxiv](https://arxiv.org/abs/2501.00864)]
 
 
 
-3. Lowering mean topological dimension
+3. Lowering mean topological dimension.
 [[arxiv](https://arxiv.org/abs/2411.10749)]
 
 4. Mean topological dimension of induced amenable group actions.
