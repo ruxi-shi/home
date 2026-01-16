@@ -7,6 +7,12 @@ layout: default
 
 I am currently a young investigator (tenure-track faculty) at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University. 
 
+---
+
+[Postdocs](https://ruxi-shi.github.io/home/postdoc)
+
+---
+
 ## Seminars
 
 I am co-organizing the [Fudan Dynamics seminar](https://www.fudandynamics.com).
