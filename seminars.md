@@ -11,10 +11,10 @@ is_seminars: true
 
 ## Seminars @Fudan
 
-2025-2026 春 
+2025-2026 Spring 
 
 Reading Seminar on Dynamical Systems and Number Theory \
-时间: 每周五 15:30-17:00\
-地点: HGX205
+Schedule: Friday 15:30-17:00\
+Room: HGX205
 
 ---
