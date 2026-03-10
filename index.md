@@ -15,7 +15,7 @@ I am currently a young investigator (tenure-track faculty) at [Shanghai Center f
 
 ## Seminars
 
-I am co-organizing the [Fudan Dynamics seminar](https://www.fudandynamics.com). In 2026 Spring, I am orgaining a Reading Seminar on Dynamical Systems and Number Theory.
+I am co-organizing the [Fudan Dynamics seminar](https://www.fudandynamics.com). In 2026 Spring, I am orgaining a [Reading Seminar](https://ruxi-shi.github.io/home/seminars) on Dynamical Systems and Number Theory.
 
 ## Research Interest
 
